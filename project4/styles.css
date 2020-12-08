@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(images/world.png);
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    padding: 20px;
+    border-style: solid;
+    border-width: 20px;
+}
+
+footer {
+    margin-top: 100%;
+    text-align: center;
+    color: white;
+}
+
